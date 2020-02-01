@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World This is Version 1.0</p>'; ?> 
+ <?php echo '<p>Hello World This is Version 1.1</p>'; ?> 
  </body>
 </html>
