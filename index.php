@@ -3,6 +3,11 @@
   <title>PHP Test</title>
  </head>
  <body>
-  <h1>This is Demo From Merks </h1>
+  <?php
+
+// Show all information, defaults to INFO_ALL
+phpinfo();
+
+?>
  </body>
 </html>
