@@ -9,5 +9,6 @@
 phpinfo();
 
 ?>
+  <h1> This is version 1</h1> 
  </body>
 </html>
